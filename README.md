@@ -9,6 +9,8 @@
 <img src="https://www.logolynx.com/images/logolynx/c5/c5ccd2f3d3f294dd4c96510721ba09bb.jpeg" width="65" height="60">
 <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5ebe80fb665aef6b/5ea8c8f26b62d4563b6ecec2/brand-elasticsearch-220x130.svg" width="120" height="60">
 
+Have hands on experience in Java 8, ES 6 and Typescript
+
 🌱 I’m currently AI and ML using python
 💞️ I’m looking to collaborate on anything intresting
 
