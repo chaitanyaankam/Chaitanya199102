@@ -1,8 +1,9 @@
 👋 Hi welcome to my profile page. I’m Chaitanya I live in Hyderabad, India
 
 👀 I’m interested & coded in the following <br/><br/>
+  * Java 11*, Python, Java Script, Shell Script
   * Spring Boot (spring-core, spring cloud, spring ORM, spring data, spring-batch, spring web, etc,.)
-  * React JS, Angular 8, Java Script & Typescript
+  * React JS, Angular 8, Typescript
   * Redis, Elastic Search & Gem Fire
   * Cloud Adaptation (AWS & Vmware PCF)
   * Jenkins CICD
