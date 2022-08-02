@@ -1,6 +1,6 @@
 👋 Hi welcome to my profile page. I’m Chaitanya I live in Hyderabad, India
 
-👀 I’m a Fullstack Developer interested & coded in the following <br/><br/>
+👀 I’m a Fullstack Developer interested & coded in the following <br/>
   * Java 11*, Python, Java Script, Shell Script
   * Spring Boot (spring-core, spring cloud, spring ORM, spring data, spring-batch, spring web, etc,.)
   * React JS, Angular 8, Typescript
